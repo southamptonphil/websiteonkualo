@@ -2,7 +2,9 @@
 
 ## Install Open Social
 
-`composer create-project goalgorilla/social_template:dev-master public_html/phil --no-interaction`
+`composer create-project goalgorilla/social_template:dev-master public_html --no-interaction`
+
+Results in site at https://angelo.ldn.kualo.net/~southam1/html
 
 ## Update
 
