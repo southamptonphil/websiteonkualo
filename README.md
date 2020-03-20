@@ -6,6 +6,8 @@
 
 Results in site at https://angelo.ldn.kualo.net/~southam1/html
 
+(Admin login whilst in maintenance - https://angelo.ldn.kualo.net/~southam1/html/user/login)
+
 ## Update
 
 `php -d set_time_limit=3600 -d memory_limit=4096M /usr/local/bin/composer update --with-dependencies --profile`
